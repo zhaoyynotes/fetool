@@ -17,5 +17,7 @@
 - [饿了么前端](https://fe.ele.me) - 饿了么前端的网址重定向到了饿了么前端在知乎上的专栏，他们在 github 上也开源了很多好东西
 - [蚂蚁体验科技](https://xcloud.alipay.com/) - 蚂蚁体验科技，让用户体验美好，探索极致用户体验与最佳工程实践，国内前端领域不可忽视的力量。开源了Ant Design，AntV，语雀，云凤蝶等多个优秀项目
 - [美团前端](https://tech.meituan.com/) - 美团前端团队近年来快速发展，由原来的前端团队转变成涵盖Web、iOS和Android 而组成美团大前端
+- [京喜前端](https://wecteam.io/) - 精心打造出了无数个优秀的技术工具和框架，wqvue、Legos、Hawaii、wxa-cli，坚信效能导向既要求人效更要求物效
+
 
 
